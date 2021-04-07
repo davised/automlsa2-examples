@@ -1,0 +1,20 @@
+uid	assemblyname	speciesname	wgs	submitterorganization	assemblystatus	fromtype	isolate/strain	sequence_type	accession_type	accession	prefix
+1004981	ASM199710v1	Enterobacter cloacae	MTFV01	California Department of Public Health	Scaffold	assembly from type material	ATCC 13047	cell culture	refseq	GCF_001997105.1	Enterobacter_cloacae_ATCC_13047
+1013061	ASM200699v1	Izhakiella australiensis	MRUL01	the University of NSW	Scaffold	assembly from type material	D4N98	cell culture	refseq	GCF_002006995.1	Izhakiella_australiensis_D4N98
+1039301	ASM204288v1	Citrobacter portucalensis	MVFY01	Faculty of Pharmacy, University of Porto	Contig	assembly from type material	A60	cell culture	refseq	GCF_002042885.1	Citrobacter_portucalensis_A60
+1060061	ASM207534v1	Citrobacter braakii	NAEW01	Faculty of Pharmacy, University of Porto	Contig	assembly from type material	ATCC 51113	cell culture	refseq	GCF_002075345.1	Citrobacter_braakii_ATCC_51113
+1061011	ASM28049v2	Kosakonia radicincitans	-	Leibniz-Institute of Vegetable and Ornamental Crpos	Complete Genome	assembly from type material	DSM 16656	cell culture	genbank	GCA_000280495.2	Kosakonia_radicincitans_DSM_16656
+1086751	Enterobacter_muelleri_JM-458T.fasta	Enterobacter asburiae	FXLQ01	JUSTUS LIEBIG UNIVERSITY	Contig	assembly from synonym type material	Enterobacter muelleri JM-458T	cell culture	refseq	GCF_900180435.1	Enterobacter_asburiae_JM-458T
+1110931	Kosakonia_pseudosacchari_JM-387_T	Kosakonia pseudosacchari	FXWP01	JUSTUS LIEBIG UNIVERSITY	Contig	assembly from type material	JM-387	cell culture	refseq	GCF_900184035.1	Kosakonia_pseudosacchari_JM-387
+1134431	Enterobacter_soli_LMG_25861T_ERS954912	Enterobacter soli	FYBB01	JUSTUS LIEBIG UNIVERSITY	Contig	assembly from type material	Enterobacter soli LMG 25861T	cell culture	refseq	GCF_900185935.1	Enterobacter_soli_LMG_25861T
+1134831	ASM90018590v1	Enterobacter cancerogenus	FYBA01	JUSTUS LIEBIG UNIVERSITY	Contig	assembly from type material	Enterobacter cancerogenus ATCC33241	cell culture	refseq	GCF_900185905.1	Enterobacter_cancerogenus_ATCC33241
+1180061	ASM226925v1	Klebsiella quasivariicola	-	Houston Methodist Hospital	Complete Genome	assembly from type material	KPN1705	cell culture	genbank	GCA_002269255.1	Klebsiella_quasivariicola_KPN1705
+1181981	ASM227121v1	Lelliottia jeotgali	-	Kyung Hee university	Complete Genome	assembly from type material	PFL01	cell culture	genbank	GCA_002271215.1	Lelliottia_jeotgali_PFL01
+1191091	ASM228922v1	Salmonella enterica	NSBZ01	University of California at Davis	Scaffold	assembly from type material	LT2	cell culture	refseq	GCF_002289225.1	Salmonella_enterica_LT2
+1192151	ASM229142v1	Gibbsiella quercinecans	-	Bangor University	Complete Genome	assembly from type material	FRB97	cell culture	genbank	GCA_002291425.1	Gibbsiella_quercinecans_FRB97
+1329371	ASM255354v1	Lelliottia amnigena	PDDA01	Kyung Hee university	Contig	assembly from type material	LMG 2784	cell culture	refseq	GCF_002553545.1	Lelliottia_amnigena_LMG_2784
+1329701	ASM90020003v1	Klebsiella grimontii	FZTC01	INSTITUT PASTEUR	Contig	assembly from type material	06D021	cell culture	refseq	GCF_900200035.1	Klebsiella_grimontii_06D021
+1330111	ASM82658v2	Klebsiella pneumoniae	CDJH01	URMITE	Scaffold	assembly from type material	ATCC 11296	cell culture	refseq	GCF_000826585.2	Klebsiella_pneumoniae_ATCC_11296
+138491	SB30_PRJEB5159	Klebsiella quasipneumoniae	CBZR01	INSTITUT PASTEUR	Contig	assembly from type material	07A044	cell culture	refseq	GCF_000613225.1	Klebsiella_quasipneumoniae_07A044
+141621	ASM62118v1	Franconibacter pulveris	JHYZ01	DOE Joint Genome Institute	Scaffold	assembly from type material	DSM 19144	cell culture	refseq	GCF_000621185.1	Franconibacter_pulveris_DSM_19144
+1535171	ASM290036v1	Escherichia marmotae	-	Institute of Microbiology Chinese Academy of Sciences	Complete Genome	assembly from type material	HT073016	cell culture	genbank	GCA_002900365.1	Escherichia_marmotae_HT073016
